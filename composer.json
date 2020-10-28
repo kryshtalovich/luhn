@@ -1,0 +1,19 @@
+{
+  "name": "kryshtalovich/luhn",
+  "description": "Card numbers validator and generator",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "kryshtalovich",
+      "email": "kryshtalovich@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Kryshtalovich\\Luhn\\": "src/"
+    }
+  }
+}
