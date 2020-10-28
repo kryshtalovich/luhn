@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Luhn;
+namespace Kryshtalovich\Luhn;
 
 class Validate
 {
